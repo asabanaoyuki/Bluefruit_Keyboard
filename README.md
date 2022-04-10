@@ -20,7 +20,7 @@ Arduino互換機をbluetoothマクロキーボードとして動作させます�
 
 * Arduinoスケッチ
 
-* 覚書
+[HIDコマンドの覚書](https://github.com/asabanaoyuki/Bluefruit_Keyboard/blob/main/HID_memo.md)
 
 
 ```bash

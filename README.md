@@ -1,4 +1,4 @@
-# Bluefruit_Keyboard
+# はじめに
 Arduino互換機をbluetoothマクロキーボードとして動作させます。
 
 巷で販売しているマクロキーボードはPC側にアプリを入れる必要がありますが、Arduino側でマクロを組めばPCからはただのbluetoothキーボードに見えるという目論見です。
